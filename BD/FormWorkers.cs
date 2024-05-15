@@ -1,15 +1,7 @@
 ﻿using MySql.Data.MySqlClient;
-using Mysqlx.Crud;
 using System;
-using System.Collections.Generic;
 using System.Collections.ObjectModel;
-using System.ComponentModel;
 using System.Data;
-using System.Data.SqlClient;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace BD
@@ -36,24 +28,17 @@ namespace BD
             ViewAssessment();
             fillComboBoxPost();
             ViewWorker();
-
             fillComboBoxWorkersEncouragement();
             fillComboBoxEncouragementType();
-
             ViewOrders();
             ViewEncourgamentInfringament();
-
             fillComboBoxidEncouragement();
             fillComboBoxIdinfrigement();
-
             ViewEncouragement();
-            ViewInfrigements();
-            
+            ViewInfrigements();            
             ViewPaySheet();
             ViewReport();
-
             PostUser = loginUser.Rows[0][8].ToString();
-
             switch (PostUser)
             {
                 case "1":
@@ -65,7 +50,6 @@ namespace BD
                     break;
                 case "4":
                     tabControl.TabPages.Remove(tabPageCreatePaySheet);
-                    tabControl.TabPages.Remove(tabPageCreateOrder);
                     tabControl.TabPages.Remove(tabPagePutAssessment);
                     tabControl.TabPages.Remove(tabPageEncourgament);
                     tabControl.TabPages.Remove(tabPageInfringament);
@@ -335,13 +319,9 @@ namespace BD
                         }
                     }
                 }
-
-
-
                 dataGridViewSeeOrder.Rows.Add(order.id, worker.ToString(),encouragementType.title, infrigementType.title, order.type, order.date);
             }
-        }//
-
+        }
         private void ViewReport()
         {
             productivitiReports = database.getProductivitiReport();
@@ -368,7 +348,6 @@ namespace BD
                 }
                 dataGridViewPaySheet.Rows.Add(paySheet.id, worker.ToString(),paySheet.date,paySheet.number_of_hourse,paySheet.price_of_an_hour);
             }
-            //dataGridViewPaySheet
         }
         private void fillComboBoxPost()
         {
@@ -463,8 +442,6 @@ namespace BD
             paySheets = database.getPaySheet();
             ViewPaySheet();
         }
-
-
         private void buttonProductivitiReport_Click(object sender, EventArgs e)
         {
 
