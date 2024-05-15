@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Perfi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041E\u0442\u0447\u0435\u0442\\BD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEB5032-84E5-43EA-85F4-12765BAA1156}|BD\\BD.csproj|C:\\Users\\Perfi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041E\u0442\u0447\u0435\u0442\\BD\\bd\\formworkers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DEB5032-84E5-43EA-85F4-12765BAA1156}|BD\\BD.csproj|solutionrelative:bd\\formworkers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEB5032-84E5-43EA-85F4-12765BAA1156}|BD\\BD.csproj|C:\\Users\\Perfi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041E\u0442\u0447\u0435\u0442\\BD\\bd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9DEB5032-84E5-43EA-85F4-12765BAA1156}|BD\\BD.csproj|solutionrelative:bd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEB5032-84E5-43EA-85F4-12765BAA1156}|BD\\BD.csproj|C:\\Users\\Perfi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041E\u0442\u0447\u0435\u0442\\BD\\bd\\formworkers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9DEB5032-84E5-43EA-85F4-12765BAA1156}|BD\\BD.csproj|solutionrelative:bd\\formworkers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEB5032-84E5-43EA-85F4-12765BAA1156}|BD\\BD.csproj|C:\\Users\\Perfi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041E\u0442\u0447\u0435\u0442\\BD\\bd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DEB5032-84E5-43EA-85F4-12765BAA1156}|BD\\BD.csproj|solutionrelative:bd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEB5032-84E5-43EA-85F4-12765BAA1156}|BD\\BD.csproj|c:\\users\\perfi\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043E\u0442\u0447\u0435\u0442\\bd\\bd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DEB5032-84E5-43EA-85F4-12765BAA1156}|BD\\BD.csproj|solutionrelative:bd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEB5032-84E5-43EA-85F4-12765BAA1156}|BD\\BD.csproj|C:\\Users\\Perfi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041E\u0442\u0447\u0435\u0442\\BD\\bd\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DEB5032-84E5-43EA-85F4-12765BAA1156}|BD\\BD.csproj|solutionrelative:bd\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormWorkers.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Perfi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041E\u0442\u0447\u0435\u0442\\BD\\BD\\FormWorkers.cs",
+              "RelativeDocumentMoniker": "BD\\FormWorkers.cs",
+              "ToolTip": "C:\\Users\\Perfi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041E\u0442\u0447\u0435\u0442\\BD\\BD\\FormWorkers.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "BD\\FormWorkers.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T07:46:18.944Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Perfi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041E\u0442\u0447\u0435\u0442\\BD\\BD\\Program.cs",
+              "RelativeDocumentMoniker": "BD\\Program.cs",
+              "ToolTip": "C:\\Users\\Perfi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041E\u0442\u0447\u0435\u0442\\BD\\BD\\Program.cs",
+              "RelativeToolTip": "BD\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T09:18:01.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\Perfi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041E\u0442\u0447\u0435\u0442\\BD\\BD\\Database.cs",
+              "RelativeDocumentMoniker": "BD\\Database.cs",
+              "ToolTip": "C:\\Users\\Perfi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041E\u0442\u0447\u0435\u0442\\BD\\BD\\Database.cs",
+              "RelativeToolTip": "BD\\Database.cs",
+              "ViewState": "AQIAAHQBAAAAAAAAAAAqwDEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T07:30:54.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Perfi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041E\u0442\u0447\u0435\u0442\\BD\\BD\\Form1.cs",
+              "RelativeDocumentMoniker": "BD\\Form1.cs",
+              "ToolTip": "C:\\Users\\Perfi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041E\u0442\u0447\u0435\u0442\\BD\\BD\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "BD\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T14:34:19.284Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Perfi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041E\u0442\u0447\u0435\u0442\\BD\\BD\\Form1.cs",
+              "RelativeDocumentMoniker": "BD\\Form1.cs",
+              "ToolTip": "C:\\Users\\Perfi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041E\u0442\u0447\u0435\u0442\\BD\\BD\\Form1.cs",
+              "RelativeToolTip": "BD\\Form1.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowCUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T14:38:06.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormWorkers.cs",
+              "DocumentMoniker": "C:\\Users\\Perfi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041E\u0442\u0447\u0435\u0442\\BD\\BD\\FormWorkers.cs",
+              "RelativeDocumentMoniker": "BD\\FormWorkers.cs",
+              "ToolTip": "C:\\Users\\Perfi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041E\u0442\u0447\u0435\u0442\\BD\\BD\\FormWorkers.cs",
+              "RelativeToolTip": "BD\\FormWorkers.cs",
+              "ViewState": "AQIAAPgAAAAAAAAAAAAmwBMBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T08:58:49.375Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+C:\Users\Perfi\OneDrive\Рабочий стол\Krasina\BD\BD\bin\Debug\BD.exe.config
+C:\Users\Perfi\OneDrive\Рабочий стол\Krasina\BD\BD\bin\Debug\BD.exe
+C:\Users\Perfi\OneDrive\Рабочий стол\Krasina\BD\BD\bin\Debug\BD.pdb
+C:\Users\Perfi\OneDrive\Рабочий стол\Krasina\BD\BD\bin\Debug\MySql.Data.dll
+C:\Users\Perfi\OneDrive\Рабочий стол\Krasina\BD\BD\bin\Debug\System.Memory.dll
+C:\Users\Perfi\OneDrive\Рабочий стол\Krasina\BD\BD\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Perfi\OneDrive\Рабочий стол\Krasina\BD\BD\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Perfi\OneDrive\Рабочий стол\Krasina\BD\BD\bin\Debug\System.Buffers.dll
+C:\Users\Perfi\OneDrive\Рабочий стол\Krasina\BD\BD\bin\Debug\MySql.Data.xml
+C:\Users\Perfi\OneDrive\Рабочий стол\Krasina\BD\BD\obj\Debug\BD.csproj.AssemblyReference.cache
+C:\Users\Perfi\OneDrive\Рабочий стол\Krasina\BD\BD\obj\Debug\BD.Form1.resources
+C:\Users\Perfi\OneDrive\Рабочий стол\Krasina\BD\BD\obj\Debug\BD.FormWorkers.resources
+C:\Users\Perfi\OneDrive\Рабочий стол\Krasina\BD\BD\obj\Debug\BD.Properties.Resources.resources
+C:\Users\Perfi\OneDrive\Рабочий стол\Krasina\BD\BD\obj\Debug\BD.csproj.GenerateResource.cache
+C:\Users\Perfi\OneDrive\Рабочий стол\Krasina\BD\BD\obj\Debug\BD.csproj.CoreCompileInputs.cache
+C:\Users\Perfi\OneDrive\Рабочий стол\Krasina\BD\BD\obj\Debug\BD.csproj.Up2Date
+C:\Users\Perfi\OneDrive\Рабочий стол\Krasina\BD\BD\obj\Debug\BD.exe
+C:\Users\Perfi\OneDrive\Рабочий стол\Krasina\BD\BD\obj\Debug\BD.pdb
+C:\Users\Perfi\Desktop\BD\BD\bin\Debug\BD.exe.config
+C:\Users\Perfi\Desktop\BD\BD\bin\Debug\BD.exe
+C:\Users\Perfi\Desktop\BD\BD\bin\Debug\BD.pdb
+C:\Users\Perfi\Desktop\BD\BD\bin\Debug\MySql.Data.dll
+C:\Users\Perfi\Desktop\BD\BD\bin\Debug\System.Memory.dll
+C:\Users\Perfi\Desktop\BD\BD\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Perfi\Desktop\BD\BD\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Perfi\Desktop\BD\BD\bin\Debug\System.Buffers.dll
+C:\Users\Perfi\Desktop\BD\BD\bin\Debug\MySql.Data.xml
+C:\Users\Perfi\Desktop\BD\BD\obj\Debug\BD.csproj.AssemblyReference.cache
+C:\Users\Perfi\Desktop\BD\BD\obj\Debug\BD.Form1.resources
+C:\Users\Perfi\Desktop\BD\BD\obj\Debug\BD.FormWorkers.resources
+C:\Users\Perfi\Desktop\BD\BD\obj\Debug\BD.Properties.Resources.resources
+C:\Users\Perfi\Desktop\BD\BD\obj\Debug\BD.csproj.GenerateResource.cache
+C:\Users\Perfi\Desktop\BD\BD\obj\Debug\BD.csproj.CoreCompileInputs.cache
+C:\Users\Perfi\Desktop\BD\BD\obj\Debug\BD.csproj.CopyComplete
+C:\Users\Perfi\Desktop\BD\BD\obj\Debug\BD.exe
+C:\Users\Perfi\Desktop\BD\BD\obj\Debug\BD.pdb
+C:\Users\Perfi\OneDrive\Рабочий стол\Отчет\BD\BD\bin\Debug\BD.exe.config
+C:\Users\Perfi\OneDrive\Рабочий стол\Отчет\BD\BD\bin\Debug\BD.exe
+C:\Users\Perfi\OneDrive\Рабочий стол\Отчет\BD\BD\bin\Debug\BD.pdb
+C:\Users\Perfi\OneDrive\Рабочий стол\Отчет\BD\BD\bin\Debug\MySql.Data.dll
+C:\Users\Perfi\OneDrive\Рабочий стол\Отчет\BD\BD\bin\Debug\System.Memory.dll
+C:\Users\Perfi\OneDrive\Рабочий стол\Отчет\BD\BD\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Perfi\OneDrive\Рабочий стол\Отчет\BD\BD\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Perfi\OneDrive\Рабочий стол\Отчет\BD\BD\bin\Debug\System.Buffers.dll
+C:\Users\Perfi\OneDrive\Рабочий стол\Отчет\BD\BD\bin\Debug\MySql.Data.xml
+C:\Users\Perfi\OneDrive\Рабочий стол\Отчет\BD\BD\obj\Debug\BD.csproj.AssemblyReference.cache
+C:\Users\Perfi\OneDrive\Рабочий стол\Отчет\BD\BD\obj\Debug\BD.Form1.resources
+C:\Users\Perfi\OneDrive\Рабочий стол\Отчет\BD\BD\obj\Debug\BD.FormWorkers.resources
+C:\Users\Perfi\OneDrive\Рабочий стол\Отчет\BD\BD\obj\Debug\BD.Properties.Resources.resources
+C:\Users\Perfi\OneDrive\Рабочий стол\Отчет\BD\BD\obj\Debug\BD.csproj.GenerateResource.cache
+C:\Users\Perfi\OneDrive\Рабочий стол\Отчет\BD\BD\obj\Debug\BD.csproj.CoreCompileInputs.cache
+C:\Users\Perfi\OneDrive\Рабочий стол\Отчет\BD\BD\obj\Debug\BD.csproj.Up2Date
+C:\Users\Perfi\OneDrive\Рабочий стол\Отчет\BD\BD\obj\Debug\BD.exe
+C:\Users\Perfi\OneDrive\Рабочий стол\Отчет\BD\BD\obj\Debug\BD.pdb
