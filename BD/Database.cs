@@ -28,7 +28,6 @@ namespace BD
         {
             return connection;
         }
-
         public string getTable(string tableName, DataGridView dataGridView)
         {
             DataTable data = new DataTable();
@@ -44,7 +43,6 @@ namespace BD
             }
             return "Успешно!";
         }
-
         public DataTable getAllInfo(string tableName)
         {
             DataTable data = new DataTable();
@@ -53,7 +51,6 @@ namespace BD
             adapter.Fill(data);
             return data;
         }
-
         public Collection<Post> getAllPost()
         {
             Collection<Post> posts = new Collection<Post>();
@@ -64,7 +61,6 @@ namespace BD
             }
             return posts;
         }
-
         public Collection<Worker> getAllWorker()
         {
             Collection<Worker> workers = new Collection<Worker>();
@@ -75,7 +71,6 @@ namespace BD
             }
             return workers;
         }
-
         public Collection<EncouragementType> getAllEncouragementType()
         {
             Collection<EncouragementType> EncouragementTypes = new Collection<EncouragementType>();
@@ -86,7 +81,6 @@ namespace BD
             }
             return EncouragementTypes;
         }
-
         public Collection<InfrigementType> getAllInfrigementType()
         {
             Collection<InfrigementType> InfrigementTypes = new Collection<InfrigementType>();
@@ -97,7 +91,6 @@ namespace BD
             }
             return InfrigementTypes;
         }
-
         public Collection<ProductivitiAssessment> getAllProductivityAssesment()
         {
             Collection<ProductivitiAssessment> ProductivitiAssessments = new Collection<ProductivitiAssessment>();
@@ -108,7 +101,6 @@ namespace BD
             }
             return ProductivitiAssessments;
         }
-
         public Collection<Order> getAllOrdes()
         {
             Collection<Order> Orders = new Collection<Order>();
@@ -127,7 +119,6 @@ namespace BD
             }
             return Orders;
         }
-
         public Collection<ProductivitiReport> getProductivitiReport()
         {
             Collection<ProductivitiReport> ProductivitiReports = new Collection<ProductivitiReport>();
@@ -138,7 +129,6 @@ namespace BD
             }
             return ProductivitiReports;
         }
-
         public Collection<Encourgament> getEncourgament()
         {
             Collection<Encourgament> Encourgaments = new Collection<Encourgament>();
@@ -149,7 +139,6 @@ namespace BD
             }
             return Encourgaments;
         }
-
         public Collection<Infrigement> getInfrigement()
         {
             Collection<Infrigement> Infrigement = new Collection<Infrigement>();
@@ -160,7 +149,6 @@ namespace BD
             }
             return Infrigement;
         }
-
         public Collection<PaySheet> getPaySheet()
         {
             Collection<PaySheet> PaySheet = new Collection<PaySheet>();
@@ -171,16 +159,9 @@ namespace BD
             }
             return PaySheet;
         }
-
-
-
     }
-    /// <summary>
-    /// Должность 
-    /// </summary>
     class Post
     {
-        
         public int id_post { private set; get; }
         public string title_post { private set; get; }
 
@@ -189,12 +170,7 @@ namespace BD
             this.id_post = id_post;
             this.title_post = title_post;
         }
-
-
     }
-    /// <summary>
-    /// Работник
-    /// </summary>
     class Worker
     {
         public int id_worker { private set; get; }
@@ -206,7 +182,6 @@ namespace BD
         public string login { private set; get; }
         public string password { private set; get; }
         public int id_post { private set; get; }
-
         public Worker(int id_worker, string last_name, string first_name, string surname, DateTime birthday, decimal phone_number, string login, string password, int id_post)
         {
             this.id_worker = id_worker;
@@ -225,9 +200,6 @@ namespace BD
             return ($"{last_name} {first_name} {surname}");
         }
     }
-    /// <summary>
-    /// Тип поощрения
-    /// </summary>
     class EncouragementType
     {
         public int id_encouragement_type { private set; get; }
@@ -241,9 +213,6 @@ namespace BD
             this.value = value;
         }
     }
-    /// <summary>
-    /// Поощрение
-    /// </summary>
     class Encourgament
     {
         public int id { private set; get; }
@@ -259,9 +228,6 @@ namespace BD
             this.date = date;
         }
     }
-    /// <summary>
-    /// Тип нарушения
-    /// </summary>
     class InfrigementType
     {
         public int id_infrigement_type { private set; get; }
@@ -274,9 +240,6 @@ namespace BD
             this.value = value;
         }
     }
-    /// <summary>
-    /// Нарушение
-    /// </summary>
     class Infrigement
     {
 
@@ -293,9 +256,6 @@ namespace BD
             this.date = date;
         }
     }
-    /// <summary>
-    /// Приказ 
-    /// </summary>
     class Order
     {
         public int id { private set; get; }
@@ -312,9 +272,6 @@ namespace BD
             this.type = type;
         }
     }
-    /// <summary>
-    /// Расчетный лист
-    /// </summary>
     class PaySheet
     {
         public int id { private set; get; }
@@ -331,9 +288,6 @@ namespace BD
             this.price_of_an_hour = price_of_an_hour;
         }
     }
-    /// <summary>
-    /// Оценка продуктивности
-    /// </summary>
     class ProductivitiAssessment
     {
         Collection<string> strings = new Collection<string>();
@@ -359,13 +313,8 @@ namespace BD
             strings.Add(id.ToString());
             strings.Add(tempWorker.last_name + " " + tempWorker.surname);
             return strings;
-        }
-        
-
+        }   
     }
-    /// <summary>
-    /// Отчет
-    /// </summary>
     class ProductivitiReport
     {
         public int id { private set; get;}

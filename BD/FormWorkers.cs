@@ -47,12 +47,14 @@ namespace BD
                     tabControl.TabPages.Remove(tabPageEncourgament);
                     tabControl.TabPages.Remove(tabPageCreateWorker);
                     tabControl.TabPages.Remove(tabPageInfringament);
+                    tabControl.TabPages.Remove(tabPageCreateOrder);
                     break;
                 case "4":
                     tabControl.TabPages.Remove(tabPageCreatePaySheet);
                     tabControl.TabPages.Remove(tabPagePutAssessment);
                     tabControl.TabPages.Remove(tabPageEncourgament);
                     tabControl.TabPages.Remove(tabPageInfringament);
+                    tabControl.TabPages.Remove(tabPageCreateOrder);
                     break;
                 case "6":
                     tabControl.TabPages.Remove(tabPageCreatePaySheet);
@@ -425,7 +427,6 @@ namespace BD
         {
             database.openConnection();
             MySqlCommand command = new MySqlCommand($"INSERT INTO `productiviti_assessment` (`id_productiviti_assesment`, `id_worker`, `value`) VALUES ('0', '{infrigements[comboBoxWorkerInfrigement.SelectedIndex].id}', '{textBox_setProductAssesment.Text}');");
-
             command.Connection = database.getConnection();
             command.ExecuteNonQuery();
             database.closeConnection();
@@ -441,10 +442,6 @@ namespace BD
             database.closeConnection();
             paySheets = database.getPaySheet();
             ViewPaySheet();
-        }
-        private void buttonProductivitiReport_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }
